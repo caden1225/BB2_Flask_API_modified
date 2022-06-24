@@ -1,0 +1,12 @@
+{
+    "init_opt": null,
+    "datapath": "/data/data_hub",
+    "search_server": "http://172.23.131.125:8848/bing_search",
+    "batchsize": 1,
+    "override": {
+        "search_server": "http://172.23.131.125:8848/bing_search",
+        "datapath": "/data/data_hub",
+        "batchsize": 1,
+        "knowledge_access_method": "classify"
+    }
+}

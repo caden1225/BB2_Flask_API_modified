@@ -1,0 +1,11 @@
+{
+    "parlai_home": "/home/zhengdong/store/venv/bb2_train/lib/python3.8/site-packages/parlai",
+    "datapath": "/home/zhengdong/store/data",
+    "starttime": "2022-03-29",
+    "model_file": "/home/zhengdong/store/data/models/tutorial_transformer_generator/model",
+    "test_opt": "1",
+    "batch_size": 3,
+    "override": {
+        "batch_size": 2
+    }
+}

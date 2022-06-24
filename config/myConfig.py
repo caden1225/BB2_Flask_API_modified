@@ -1,0 +1,12 @@
+IP = "0.0.0.0"
+SERVICE_IP = "10.182.27.4"
+PORT = 3332
+model_config_path = 'config/blenderbot2-400M-DI.json'
+search_host = '172.23.131.125'
+translate_host = '172.23.131.125'
+translate_port = 8848
+# nacosIp = "10.24.21.10"
+# nacosIp = "172.23.131.30"
+# nacosPort = 8800
+MAX_NUMS = 5
+GlobalConfig = {}
