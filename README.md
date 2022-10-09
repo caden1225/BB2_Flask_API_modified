@@ -1,4 +1,5 @@
 # BlenderBot2_flask_server
+## 集成Parlai框架下的Blenderbot2及百度翻译实现中文对话模型服务，服务框架为Flask
 
 ### 在个人电脑上启动的方法
 
